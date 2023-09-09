@@ -1,0 +1,8 @@
+Guardar environment variables
+
+echo "export GOOGLE_CSE_ID='75b9dc94a76194892'" >> ~/.bash_profile
+source ~/.bash_profile
+
+
+echo "export HUGGINGFACEHUB_API_TOKEN='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'" >> ~/.bash_profile
+
